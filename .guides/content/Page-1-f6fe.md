@@ -23,7 +23,7 @@ Here are some basic commands to use with `tina` the Turtle object.
 Next, let's try this very simple command below. Copy it into the text editor on your left and then click the `TRY IT` button to see the graphical output.
 
 ```java
-Turtle tina = new Turtle(0, 100); //change parameters to make tina visible
+Turtle tina = new Turtle(0, 100); //starting position of the turtle
 tina.forward(100);
 ```
 
